@@ -16,4 +16,4 @@ Welcome to my portfolio! This repository showcases my work in **web app developm
 
 ## Contact
 
-Email: [jintrade23@gmail.com](mailto:jintrade23@gmail.com)
+Email: [nangjang.official@gmail.com](mailto:nangjang.official@gmail.com)
